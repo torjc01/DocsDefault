@@ -139,7 +139,7 @@ Vous pouvez fusionner le `pull request` une fois que vous avez l'approbation de 
 
 [support]: support.md
 
-[collective]: https://opencollective.com/unified
+[collective]: https://opencollective.com/
 
 --- 
 (Example taken and adapted from https://github.com/remarkjs/.github/blob/main/contributing.md)
