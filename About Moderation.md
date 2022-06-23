@@ -1,0 +1,1 @@
+https://github.com/unifiedjs/collective/blob/HEAD/moderation.md
