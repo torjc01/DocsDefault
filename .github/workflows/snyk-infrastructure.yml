@@ -14,10 +14,10 @@ name: Snyk Infrastructure as Code
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "master", "workflows" ]
   pull_request:
     # The branches below must be a subset of the branches above
-    branches: [ "master" ]
+    branches: [ "master", "workflows" ]
   schedule:
     - cron: '*/5 * * * 0'
 
