@@ -1,3 +1,5 @@
+JAVASCRIPT STYLE : 
+
 /*
 * Copyright (c) 2022 Kryptogarten LLC
 * {Brief description of file's purpose}
@@ -6,3 +8,14 @@
 * SPDX-License-Identifier: CC-BY-NC-ND-4.0
 * License-Filename: LICENSES/CC-BY-NC-ND-4.0.txt
 */
+
+JSON STYLE : 
+
+//
+// Copyright (c) 2022 Kryptogarten LLC
+// {Brief description of file's purpose}
+// Author: Julio Cesar Torres <juliozohar@protonmail.ch> (@juliozohar)
+// Date: 
+// SPDX-License-Identifier: CC-BY-NC-ND-4.0
+// License-Filename: LICENSES/CC-BY-NC-ND-4.0.txt
+//
